@@ -6,3 +6,4 @@ O desafio consiste em implementar um layout fielmente utilizando HTML e CSS, com
 
 💡 Motivação
 O propósito desse projeto é demonstrar habilidades em desenvolvimento web, criando uma solução bem estruturada com HTML, CSS e, opcionalmente, JavaScript. O foco é garantir a funcionalidade e a fidelidade visual do layout proposto, enquanto se cria uma experiência agradável para o usuário 😎✨.
+LINK ATIVO: https://blendagsantos.github.io/desafio-dev/
